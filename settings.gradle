@@ -1,0 +1,2 @@
+rootProject.name='LoftSchool MoneyTracker'
+include ':app'
